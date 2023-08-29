@@ -215,7 +215,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:onClick="onDigit"
+            android:onClick="onDecimal"
             android:backgroundTint="@color/bgColorText"
             android:textColor="@color/textColor"
             android:text="@string/dot"
